@@ -131,8 +131,7 @@ footer p {
     }
 
     .img-left {
-        float: left;
-        margin-right: 25px;
+        float: center;
     }
 
     .address-bar {
