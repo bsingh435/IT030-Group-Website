@@ -1,8 +1,8 @@
-/*!
- * Bootstrap v3.3.7 (http://getbootstrap.com)
- * Copyright 2011-2016 Twitter, Inc.
- * Licensed under the MIT license
- */
+
+/*
+Authors: Bryan, Akash, Kurt and Vincenzo
+Date Due: 12/17/2018
+Recreating longisland.com for our client */
 
 if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
